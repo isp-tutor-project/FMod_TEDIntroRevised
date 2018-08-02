@@ -26,7 +26,7 @@
           <Include href="Student3Head.xml" loadImmediate="false" itemID="5a3172d4-00000046" lastModified="1528917633"/>
           <Include href="Student4Head.xml" loadImmediate="false" itemID="5a3172a4-0000003f" lastModified="1533154227"/>
           <Include href="Studentbodies.xml" loadImmediate="false" itemID="5a3173a0-0000005c" lastModified="1533154270"/>
-          <Include href="TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533154790"/>
+          <Include href="TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533221542"/>
           <Include href="TeacherAssets/GirlAssets/ear.xml" loadImmediate="false" itemID="5a395747-00000104" lastModified="1512077514"/>
           <Include href="TeacherAssets/GirlAssets/eyes.xml" loadImmediate="false" itemID="5a395747-000000fa" lastModified="1512076461"/>
           <Include href="TeacherAssets/GirlAssets/frames.xml" loadImmediate="false" itemID="5a395747-000000fc" lastModified="1512076484"/>
@@ -41,8 +41,11 @@
           <Include href="TeacherAssets/GirlAssets/shirt.xml" loadImmediate="false" itemID="5a395747-00000102" lastModified="1528984879"/>
           <Include href="TeacherAssets/GirlAssets/shirtdetail.xml" loadImmediate="false" itemID="5a395747-00000103" lastModified="1512077504"/>
           <Include href="TeacherAssets/GirlAssets/shirtoutline.xml" loadImmediate="false" itemID="5a395747-00000101" lastModified="1512077493"/>
+          <Include href="TeacherAssets/GirlAssets/shirtpointing.xml" loadImmediate="false" itemID="5a395747-000000e4" lastModified="1528984597"/>
           <Include href="TeacherAssets/GirlAssets/shoes.xml" loadImmediate="false" itemID="5a395747-000000fe" lastModified="1512076504"/>
           <Include href="TeacherBody1.xml" loadImmediate="false" itemID="5b62123f-000003be" lastModified="1533153855"/>
+          <Include href="TeacherBody2.xml" loadImmediate="false" itemID="5b621353-00000405" lastModified="1533154131"/>
+          <Include href="TeacherBodyPointing.xml" loadImmediate="false" itemID="5b6212ec-000003dd" lastModified="1533154028"/>
           <Include href="TeacherHead.xml" loadImmediate="false" itemID="5b621212-000003a2" lastModified="1533153810"/>
      </symbols>
      <timelines>
@@ -75,7 +78,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__TedIntro">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__TedIntro" selected="true">
                                              <matrix>
                                                   <Matrix tx="933.7" ty="591.85"/>
                                              </matrix>
