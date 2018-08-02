@@ -1,0 +1,127 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1920" height="1200" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Macintosh" versionInfo="Saved by Animate Macintosh 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="122.353661987282" vanishingPoint3DX="960" vanishingPoint3DY="600" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="E09D928104EEB04563B110E22F660BDA">
+     <folders>
+          <DOMFolderItem name="____componentassets____" itemID="5ad28523-00000243"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="CClassroomBackgroundAssets" itemID="5a295d90-000000b2"/>
+          <DOMFolderItem name="TeacherAssets" itemID="5b621393-00000415"/>
+          <DOMFolderItem name="TeacherAssets/GirlAssets" itemID="5a395747-000000b8"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
+     </media>
+     <symbols>
+          <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1523901913"/>
+          <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
+          <Include href="CClassroomBackgroundAssets/board.xml" loadImmediate="false" itemID="5a295d22-00000082" lastModified="1512660259"/>
+          <Include href="CClassroomBackgroundAssets/CChairsCombined.xml" loadImmediate="false" itemID="5b227092-00000336" lastModified="1533153388"/>
+          <Include href="CClassroomBackgroundAssets/chairbolt.xml" loadImmediate="false" itemID="5b226d32-00000324" lastModified="1528982834"/>
+          <Include href="CClassroomBackgroundAssets/chairs.xml" loadImmediate="false" itemID="5a295d54-00000092" lastModified="1528985108"/>
+          <Include href="CClassroomBackgroundAssets/desk.xml" loadImmediate="false" itemID="5a295d2c-00000086" lastModified="1512660268"/>
+          <Include href="CClassroomBackgroundAssets/floor.xml" loadImmediate="false" itemID="5a295d19-0000007e" lastModified="1528985054"/>
+          <Include href="CClassroomBackgroundAssets/sideofstudentdesk.xml" loadImmediate="false" itemID="5a295d4a-0000008e" lastModified="1512660299"/>
+          <Include href="CClassroomBackgroundAssets/studentdesks.xml" loadImmediate="false" itemID="5a295d3c-0000008a" lastModified="1512660284"/>
+          <Include href="ClassroomBackground.xml" loadImmediate="false" itemID="5b620cb2-00000320" lastModified="1533152456"/>
+          <Include href="Student1Head.xml" loadImmediate="false" itemID="5a317344-00000052" lastModified="1528917446"/>
+          <Include href="Student2Head.xml" loadImmediate="false" itemID="5a3172fa-0000004c" lastModified="1533152763"/>
+          <Include href="Student3Head.xml" loadImmediate="false" itemID="5a3172d4-00000046" lastModified="1528917633"/>
+          <Include href="Student4Head.xml" loadImmediate="false" itemID="5a3172a4-0000003f" lastModified="1533154227"/>
+          <Include href="Studentbodies.xml" loadImmediate="false" itemID="5a3173a0-0000005c" lastModified="1533154270"/>
+          <Include href="TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533154790"/>
+          <Include href="TeacherAssets/GirlAssets/ear.xml" loadImmediate="false" itemID="5a395747-00000104" lastModified="1512077514"/>
+          <Include href="TeacherAssets/GirlAssets/eyes.xml" loadImmediate="false" itemID="5a395747-000000fa" lastModified="1512076461"/>
+          <Include href="TeacherAssets/GirlAssets/frames.xml" loadImmediate="false" itemID="5a395747-000000fc" lastModified="1512076484"/>
+          <Include href="TeacherAssets/GirlAssets/glasses.xml" loadImmediate="false" itemID="5a395747-000000fb" lastModified="1512076470"/>
+          <Include href="TeacherAssets/GirlAssets/hairback.xml" loadImmediate="false" itemID="5a395747-000000f8" lastModified="1528916425"/>
+          <Include href="TeacherAssets/GirlAssets/hairfront.xml" loadImmediate="false" itemID="5a395747-000000fd" lastModified="1528916298"/>
+          <Include href="TeacherAssets/GirlAssets/hands.xml" loadImmediate="false" itemID="5a395747-00000100" lastModified="1512076760"/>
+          <Include href="TeacherAssets/GirlAssets/headneck.xml" loadImmediate="false" itemID="5a395747-000000f9" lastModified="1528983325"/>
+          <Include href="TeacherAssets/GirlAssets/mouth.xml" loadImmediate="false" itemID="5a395747-00000106" lastModified="1512077538"/>
+          <Include href="TeacherAssets/GirlAssets/nose.xml" loadImmediate="false" itemID="5a395747-00000105" lastModified="1512077526"/>
+          <Include href="TeacherAssets/GirlAssets/pants.xml" loadImmediate="false" itemID="5a395747-000000ff" lastModified="1528982640"/>
+          <Include href="TeacherAssets/GirlAssets/shirt.xml" loadImmediate="false" itemID="5a395747-00000102" lastModified="1528984879"/>
+          <Include href="TeacherAssets/GirlAssets/shirtdetail.xml" loadImmediate="false" itemID="5a395747-00000103" lastModified="1512077504"/>
+          <Include href="TeacherAssets/GirlAssets/shirtoutline.xml" loadImmediate="false" itemID="5a395747-00000101" lastModified="1512077493"/>
+          <Include href="TeacherAssets/GirlAssets/shoes.xml" loadImmediate="false" itemID="5a395747-000000fe" lastModified="1512076504"/>
+          <Include href="TeacherBody1.xml" loadImmediate="false" itemID="5b62123f-000003be" lastModified="1533153855"/>
+          <Include href="TeacherHead.xml" loadImmediate="false" itemID="5b621212-000003a2" lastModified="1533153810"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Scene Bounds" color="#FF00FF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/SceneRegion">
+                                             <transformationPoint>
+                                                  <Point x="959.95" y="600"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Content" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__TedIntro">
+                                             <matrix>
+                                                  <Matrix tx="933.7" ty="591.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-1.8" y="-0.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Module Component" color="#00FFFF" autoNamed="false" visible="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMComponentInstance libraryItemName="_Tutor Global Assets_/TutorModule" uniqueID="1">
+                                             <matrix>
+                                                  <Matrix tx="910" ty="550"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="50" y="50"/>
+                                             </transformationPoint>
+                                             <parametersAsXML><![CDATA[   <property id="compositionID">
+      <Inspectable name="compositionID" variable="compositionID" category="" verbose="0" defaultValue="E09D928104EEB04563B110E22F660BDA" type="String"/>
+   </property>
+   <property id="__ComponentType__">
+      <Inspectable name="__ComponentType__" variable="__ComponentType__" category="" verbose="0" defaultValue="1" type="Number"/>
+   </property>
+]]></parametersAsXML>
+                                        </DOMComponentInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="CreateJSToolkit_timelinedata" v="version 0.1 loop true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>
