@@ -20,12 +20,19 @@
           <Include href="CClassroomBackgroundAssets/floor.xml" loadImmediate="false" itemID="5a295d19-0000007e" lastModified="1528985054"/>
           <Include href="CClassroomBackgroundAssets/sideofstudentdesk.xml" loadImmediate="false" itemID="5a295d4a-0000008e" lastModified="1512660299"/>
           <Include href="CClassroomBackgroundAssets/studentdesks.xml" loadImmediate="false" itemID="5a295d3c-0000008a" lastModified="1512660284"/>
-          <Include href="ClassroomBackground.xml" loadImmediate="false" itemID="5b620cb2-00000320" lastModified="1533152456"/>
-          <Include href="Student1Head.xml" loadImmediate="false" itemID="5a317344-00000052" lastModified="1528917446"/>
-          <Include href="Student2Head.xml" loadImmediate="false" itemID="5a3172fa-0000004c" lastModified="1533152763"/>
-          <Include href="Student3Head.xml" loadImmediate="false" itemID="5a3172d4-00000046" lastModified="1528917633"/>
-          <Include href="Student4Head.xml" loadImmediate="false" itemID="5a3172a4-0000003f" lastModified="1533154227"/>
-          <Include href="Studentbodies.xml" loadImmediate="false" itemID="5a3173a0-0000005c" lastModified="1533154270"/>
+          <Include href="TC_TObject__arrow.xml" loadImmediate="false" itemID="5b631efb-000002d1" lastModified="1533222651"/>
+          <Include href="TC_TObject__ClassroomBackground.xml" loadImmediate="false" itemID="5b631dbe-0000025d" lastModified="1533222334"/>
+          <Include href="TC_TObject__greencheckmark.xml" loadImmediate="false" itemID="5b631e0e-000002ba" lastModified="1533222414"/>
+          <Include href="TC_TObject__redx.xml" loadImmediate="false" itemID="5b631e13-000002bb" lastModified="1533222419"/>
+          <Include href="TC_TObject__Student1Head.xml" loadImmediate="false" itemID="5b631d9c-00000254" lastModified="1533222300"/>
+          <Include href="TC_TObject__Student2Head.xml" loadImmediate="false" itemID="5b631da0-00000255" lastModified="1533222304"/>
+          <Include href="TC_TObject__Student3Head.xml" loadImmediate="false" itemID="5b631da6-00000257" lastModified="1533222310"/>
+          <Include href="TC_TObject__Student4Head.xml" loadImmediate="false" itemID="5b631da3-00000256" lastModified="1533222307"/>
+          <Include href="TC_TObject__Studentbodies.xml" loadImmediate="false" itemID="5b631dbb-0000025c" lastModified="1533222331"/>
+          <Include href="TC_TObject__TeacherBody1.xml" loadImmediate="false" itemID="5b631da8-00000258" lastModified="1533222312"/>
+          <Include href="TC_TObject__TeacherBody2.xml" loadImmediate="false" itemID="5b631dab-00000259" lastModified="1533222315"/>
+          <Include href="TC_TObject__TeacherBodyPointing.xml" loadImmediate="false" itemID="5b631dad-0000025a" lastModified="1533222317"/>
+          <Include href="TC_TObject__TeacherHead.xml" loadImmediate="false" itemID="5b631db0-0000025b" lastModified="1533222320"/>
           <Include href="TC_TScene__TedIntro.xml" loadImmediate="false" itemID="5b6215e6-000004a5" lastModified="1533221542"/>
           <Include href="TeacherAssets/GirlAssets/ear.xml" loadImmediate="false" itemID="5a395747-00000104" lastModified="1512077514"/>
           <Include href="TeacherAssets/GirlAssets/eyes.xml" loadImmediate="false" itemID="5a395747-000000fa" lastModified="1512076461"/>
@@ -43,10 +50,6 @@
           <Include href="TeacherAssets/GirlAssets/shirtoutline.xml" loadImmediate="false" itemID="5a395747-00000101" lastModified="1512077493"/>
           <Include href="TeacherAssets/GirlAssets/shirtpointing.xml" loadImmediate="false" itemID="5a395747-000000e4" lastModified="1528984597"/>
           <Include href="TeacherAssets/GirlAssets/shoes.xml" loadImmediate="false" itemID="5a395747-000000fe" lastModified="1512076504"/>
-          <Include href="TeacherBody1.xml" loadImmediate="false" itemID="5b62123f-000003be" lastModified="1533153855"/>
-          <Include href="TeacherBody2.xml" loadImmediate="false" itemID="5b621353-00000405" lastModified="1533154131"/>
-          <Include href="TeacherBodyPointing.xml" loadImmediate="false" itemID="5b6212ec-000003dd" lastModified="1533154028"/>
-          <Include href="TeacherHead.xml" loadImmediate="false" itemID="5b621212-000003a2" lastModified="1533153810"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -78,7 +81,7 @@
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="TC_TScene__TedIntro" selected="true">
+                                        <DOMSymbolInstance libraryItemName="TC_TScene__TedIntro">
                                              <matrix>
                                                   <Matrix tx="933.7" ty="591.85"/>
                                              </matrix>

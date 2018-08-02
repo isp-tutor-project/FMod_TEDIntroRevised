@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ClassroomBackground" itemID="5b620cb2-00000320" lastModified="1533152456">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TC_TObject__ClassroomBackground" itemID="5b631dbe-0000025d" lastModified="1533222334">
   <timeline>
-    <DOMTimeline name="ClassroomBackground">
+    <DOMTimeline name="TC_TObject__ClassroomBackground">
       <layers>
         <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
           <frames>

@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="ClassroomBackground">
+                <DOMSymbolInstance libraryItemName="TC_TObject__ClassroomBackground">
                   <matrix>
                     <Matrix tx="-3.1" ty="194.1"/>
                   </matrix>
@@ -22,7 +22,7 @@
                     <Point x="-1.45"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Studentbodies">
+                <DOMSymbolInstance libraryItemName="TC_TObject__Studentbodies">
                   <matrix>
                     <Matrix a="2.67515563964844" d="3.1837158203125" tx="-11.3" ty="382.5"/>
                   </matrix>
@@ -30,7 +30,7 @@
                     <Point x="1.5" y="-2.65"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Student1Head">
+                <DOMSymbolInstance libraryItemName="TC_TObject__Student1Head">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="-328.05" ty="191.3"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <Point y="11.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Student2Head">
+                <DOMSymbolInstance libraryItemName="TC_TObject__Student2Head">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="-662.55" ty="195.9"/>
                   </matrix>
@@ -46,7 +46,7 @@
                     <Point x="-5.05" y="7.5"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Student3Head">
+                <DOMSymbolInstance libraryItemName="TC_TObject__Student3Head">
                   <matrix>
                     <Matrix a="2.29998779296875" d="2.29998779296875" tx="672.75" ty="206"/>
                   </matrix>
@@ -54,7 +54,7 @@
                     <Point x="0.85" y="7.2"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Student4Head">
+                <DOMSymbolInstance libraryItemName="TC_TObject__Student4Head">
                   <matrix>
                     <Matrix tx="317.9" ty="228.05"/>
                   </matrix>
@@ -70,7 +70,7 @@
                     <Point y="3.85"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TeacherHead">
+                <DOMSymbolInstance libraryItemName="TC_TObject__TeacherHead">
                   <matrix>
                     <Matrix tx="511.35" ty="-210.85"/>
                   </matrix>
@@ -78,7 +78,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TeacherBody1">
+                <DOMSymbolInstance libraryItemName="TC_TObject__TeacherBody1">
                   <matrix>
                     <Matrix tx="514.95" ty="-6.85"/>
                   </matrix>
@@ -86,7 +86,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TeacherBody2">
+                <DOMSymbolInstance libraryItemName="TC_TObject__TeacherBody2">
                   <matrix>
                     <Matrix tx="500.95" ty="-10.75"/>
                   </matrix>
@@ -94,7 +94,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="TeacherBodyPointing">
+                <DOMSymbolInstance libraryItemName="TC_TObject__TeacherBodyPointing">
                   <matrix>
                     <Matrix tx="472.95" ty="-9.05"/>
                   </matrix>
